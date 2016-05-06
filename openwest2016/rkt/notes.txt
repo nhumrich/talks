@@ -1,0 +1,4 @@
+http://www.slideshare.net/XiaofengGuo/app-container-rkt
+https://github.com/coreos/rkt/blob/master/Documentation/trying-out-rkt.md
+https://github.com/coreos/rkt/blob/master/Documentation/app-container.md
+https://github.com/coreos/rkt/blob/master/Documentation/getting-started-guide.md
